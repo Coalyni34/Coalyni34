@@ -54,7 +54,6 @@ I don't build empires. I build tools that make the world freer.
 |---------|-------------|--------|
 | **ForestMSG** | P2P messenger with I2P and BitTorrent | 🟡 Active development |
 | **Forest Tracker** | I2P tracker deployment utility | 🟡 Planned |
-| **ForestVPN** | VPN service for bypassing censorship | 🟡 Planned |
 | **Forestgram** | Telegram client with censorship bypass | 🟡 Planned |
 
 ---
