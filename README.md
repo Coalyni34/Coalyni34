@@ -76,6 +76,7 @@ Forest is the absence of walls.
 
 - GitHub: [@Coalyni34](https://github.com/Coalyni34)
 - Project: [ForestMSG](https://github.com/Coalyni34/Forest-Messenger)
+- E-Mail: coalyni34work@proton.me 
 
 ---
 
