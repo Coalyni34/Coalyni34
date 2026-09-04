@@ -8,7 +8,7 @@ I build tools that make people free.
 
 ## 🔭 Current Project
 
-### [ForestMSG](https://github.com/Coalyni34/Forest-Messenger)
+### [Forest-Messenger](https://github.com/Coalyni34/Forest-Messenger)
 
 A decentralized, anonymous, censorship-resistant P2P messenger.
 
