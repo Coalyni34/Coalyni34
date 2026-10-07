@@ -74,7 +74,7 @@ Forest is the absence of walls.
 ## 📫 Contact
 
 - GitHub: [@Coalyni34](https://github.com/Coalyni34)
-- Project: [Forest Messenger](https://github.com/Coalyni34/Forest-Messenger)
+- Project: [Forest Messenger](https://github.com/Forest-Freedom-Project/Forest-Messenger)
 - E-Mail: coalyni34work@proton.me 
 
 ---
