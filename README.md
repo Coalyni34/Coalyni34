@@ -52,7 +52,7 @@ I don't build empires. I build tools that make the world freer.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **ForestMSG** | P2P messenger with I2P and BitTorrent | 🟡 Active development |
+| **Forest Messenger** | P2P messenger with I2P and BitTorrent | 🟡 Active development |
 | **Forest Tracker** | I2P tracker deployment utility | 🟡 Planned |
 | **Forestgram** | Telegram client with censorship bypass | 🟡 Planned |
 
@@ -74,7 +74,7 @@ Forest is the absence of walls.
 ## 📫 Contact
 
 - GitHub: [@Coalyni34](https://github.com/Coalyni34)
-- Project: [ForestMSG](https://github.com/Coalyni34/Forest-Messenger)
+- Project: [Forest Messenger](https://github.com/Coalyni34/Forest-Messenger)
 - E-Mail: coalyni34work@proton.me 
 
 ---
